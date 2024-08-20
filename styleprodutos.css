@@ -1,0 +1,165 @@
+/*==== DIVISÃO(div): CONTAINER DOS PRODUTOS DE "BOLOS"(_B) ====*/
+.P_Container_B {
+	background-color: var(--marrom-claro);
+	border: 10px solid var(--marrom-escuro);
+	border-right-width: 25px;
+	border-left-width: 25px;
+	border-radius: 40px;
+    display: flex;
+    overflow-x: auto;
+	margin: 10vh 10vw;
+	padding: 3vh 3vw;
+}
+/*--------------*/
+
+
+/* -- SUBTÍTULO(h2): CONTAINER DOS PRODUTOS DE "BOLOS"(_B) --*/
+.P_Subtítulos_B {
+	background-color: var(--marrom-escuro);
+	border-radius: 40px 40px 0 0;
+    margin: 10vh 62vw -13vh 15vw;
+    padding: 2vh 3vw;
+    text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.P_Subtítulos_B:hover {
+    color: var(--rosa-forte);
+	font-weight: bold;
+}
+
+.Anchor_L_B {
+	text-decoration: none;
+	color: var(--rosa-claro);
+}
+/*--------------*/
+
+
+/*============================================================*/
+
+
+/*==== DIVISÃO(div): CONTAINER DOS PRODUTOS DE "COOKIES"(_C) ====*/
+.P_Container_C {
+  background-color: var(--marrom-claro);
+	border: 10px solid var(--marrom-escuro);
+	border-right-width: 25px;
+	border-left-width: 25px;
+	border-radius: 40px;
+  display: flex;
+  overflow-x: auto;
+	margin: 10vh 10vw;
+	padding: 3vh 3vw;
+}
+/*--------------*/
+
+
+/*-- SUBTÍTULO(h2): CONTAINER DOS PRODUTOS de "COOKIES"(_C) --*/
+.P_Subtítulos_C {
+	background-color: var(--marrom-escuro);
+	border-radius: 40px 40px 0 0;
+  margin: 10vh 45vw -13vh 30vw;
+  padding: 2vh 3vw;
+  text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.P_Subtítulos_C:hover {
+  color: var(--rosa-forte);
+	font-weight: bold;
+}
+
+.Anchor_L_C {
+	text-decoration: none;
+	color: var(--rosa-claro);
+}
+/*--------------*/
+
+
+/*============================================================*/
+
+
+/*==== DIVISÃO(div): CONTAINER DOS PRODUTOS DE "DRINKS"(_D) ====*/
+.P_Container_D {
+  background-color: var(--marrom-claro);
+	border: 10px solid var(--marrom-escuro);
+	border-right-width: 25px;
+	border-left-width: 25px;
+	border-radius: 40px;
+  display: flex;
+  overflow-x: auto;
+	margin: 10vh 10vw;
+	padding: 3vh 3vw;
+}
+
+
+/* -- SUBTÍTULO(h2): CONTAINER DOS PRODUTOS de "DRINKS"(_D) --*/
+.P_Subtítulos_D {
+	background-color: var(--marrom-escuro);
+	border-radius: 40px 40px 0 0;
+  margin: 10vh 32vw -13vh 45vw;
+  padding: 2vh 3vw;
+  text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.P_Subtítulos_D:hover {
+  color: var(--rosa-forte);
+	font-weight: bold;
+}
+
+.Anchor_L_D {
+	text-decoration: none;
+	color: var(--rosa-claro);
+}
+/*--------------*/
+
+
+/*============================================================*/
+
+
+/*==== DIVISÃO(div): CONTAINER DOS PRODUTOS DE "MACAROONS"(_M) ====*/
+.P_Container_M {
+		display: flex;
+		overflow-x: auto;
+		margin: 10vh 10vw; 
+		padding: 3vh 3vw;
+		background-color: var(--marrom-claro);
+		border-radius: 40px;
+		border: 10px solid var(--marrom-escuro);
+		border-right-width: 25px;
+		border-left-width: 25px;
+}
+/*--------------*/
+
+
+/* -- SUBTÍTULO(h2): CONTAINER DOS PRODUTOS DE "MACAROONS"(_M) --*/
+.P_Subtítulos_M {
+		background-color: var(--marrom-escuro);
+		border-radius: 40px 40px 0 0;
+	  margin: 10vh 15vw -13vh 62vw;
+	  padding: 2vh 3vw;
+	  text-align: center;
+		font-size: 40px;
+		font-weight: bold;
+		text-transform: uppercase;
+}
+
+.P_Subtítulos_M:hover {
+  	color: var(--rosa-forte);
+		font-weight: bold;
+}
+
+.Anchor_L_M {
+		text-decoration: none;
+		color: var(--rosa-claro);
+}
+/*--------------*/
+
+
+/*=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+*/
