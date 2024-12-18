@@ -211,28 +211,28 @@ form a {
 /* RODAPÉ(footer) */
 footer {
 	display: flex;
-	padding: 0.8em;
-	margin-right: 5vw;
-	margin-left: 5vw;
+	padding: 0.8rem;
+	margin-right: 4rem;
+	margin-left: 4rem;
 	background-color: var(--marrom-claro);
 	border-radius: 50px 50px 0px 0px;
 	align-items: center;
 }
 
 footer img {
-	max-height: 6vh;
+    margin-left: 27rem;
+	max-height: 3.3rem;
 	width: auto;
-	margin-left: 37vw;
 }
 
 footer p {
-	margin-left: 10vw;
-	font-size: 20px;
+	margin-left: 10rem;
+	font-size: 1.4rem;
 	text-transform: uppercase;
 }
 
 footer span {
-	font-size: 30px;
+	font-size: 1.4rem;
 	font-weight: bold;
 }
 /*--------------*/
